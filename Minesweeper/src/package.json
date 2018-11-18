@@ -1,0 +1,11 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "A command-line minesweeper game",
+  "main": "board.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom McCall",
+  "license": "ISC"
+}

@@ -4,7 +4,8 @@
   "description": "A command-line minesweeper game",
   "main": "board.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
   },
   "author": "Tom McCall",
   "license": "ISC",
